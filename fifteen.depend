@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1478779745 source:c:\users\dayuun\desktop\新建文件夹\fifteen\fifteen.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	<vector>
+	<queue>
+	<stack>
+	<set>
+	<map>
+	<stdio.h>
+	<windows.h>
+
+1478777660 c:\users\dayuun\desktop\新建文件夹\fifteen\fifteen.h
+	<iostream>
+	<cstring>
+	<limits>
+	<vector>
+	<queue>
+	<stack>
+	<set>
+	<map>
+	<stdio.h>
+	<windows.h>
+
+1478759954 source:c:\users\dayuun\desktop\新建文件夹\fifteen\main.cpp
+	<iostream>
+	"fifteen.h"
+
+1478779933 source:c:\users\dayuun\desktop\新建文件夹\fifteen - 副本\fifteen.cpp
+	"fifteen.h"
+	<iostream>
+	<cstring>
+	<limits>
+	<vector>
+	<queue>
+	<stack>
+	<set>
+	<map>
+	<stdio.h>
+	<windows.h>
+
+1478780243 c:\users\dayuun\desktop\新建文件夹\fifteen - 副本\fifteen.h
+	<iostream>
+	<cstring>
+	<limits>
+	<vector>
+	<queue>
+	<stack>
+	<set>
+	<map>
+	<stdio.h>
+	<windows.h>
+
+1478759954 source:c:\users\dayuun\desktop\新建文件夹\fifteen - 副本\main.cpp
+	<iostream>
+	"fifteen.h"
+
+1478759954 source:c:\users\dayuun\desktop\19140216陈丝雨-fifteen_puzzle\main.cpp
+	<iostream>
+	"fifteen.h"
+
+1478780243 c:\users\dayuun\desktop\19140216陈丝雨-fifteen_puzzle\fifteen.h
+	<iostream>
+	<cstring>
+	<limits>
+	<vector>
+	<queue>
+	<stack>
+	<set>
+	<map>
+	<stdio.h>
+	<windows.h>
+
+1478759954 source:c:\users\dayuun\desktop\人工智能 -15数码\19140216陈丝雨\代码\main.cpp
+	<iostream>
+	"fifteen.h"
+
+1478780243 c:\users\dayuun\desktop\人工智能 -15数码\19140216陈丝雨\代码\fifteen.h
+	<iostream>
+	<cstring>
+	<limits>
+	<vector>
+	<queue>
+	<stack>
+	<set>
+	<map>
+	<stdio.h>
+	<windows.h>
+
+1478783628 source:d:\dayuun\study\大三上\人工智能\人工智能 -15数码\19140216陈丝雨\代码\fifteen.cpp
+	"fifteen.h"
+	<iostream>
+	<cstring>
+	<limits>
+	<vector>
+	<queue>
+	<stack>
+	<set>
+	<map>
+	<stdio.h>
+	<windows.h>
+
+1478780243 d:\dayuun\study\大三上\人工智能\人工智能 -15数码\19140216陈丝雨\代码\fifteen.h
+	<iostream>
+	<cstring>
+	<limits>
+	<vector>
+	<queue>
+	<stack>
+	<set>
+	<map>
+	<stdio.h>
+	<windows.h>
+
+1478759954 source:d:\dayuun\study\大三上\人工智能\人工智能 -15数码\19140216陈丝雨\代码\main.cpp
+	<iostream>
+	"fifteen.h"
+
